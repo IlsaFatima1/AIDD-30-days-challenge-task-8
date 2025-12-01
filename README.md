@@ -14,9 +14,9 @@
  **/sp.implement** "Implement calculator"
 
 
- ![Screenshot 1](https://github.com/IlsaFatima1/AIDD-30-days-challenge-task-8/blob/main/Screenshot_3.jpeg)
+ ![Screenshot 1](https://github.com/IlsaFatima1/AIDD-30-days-challenge-task-8/blob/main/Screenshot_2.jpeg)
 
- ![Screenshot 2](https://github.com/IlsaFatima1/AIDD-30-days-challenge-task-8/blob/main/Screenshot_2.jpeg)
+ ![Screenshot 2](https://github.com/IlsaFatima1/AIDD-30-days-challenge-task-8/blob/main/Screenshot_3.jpeg)
 
  ![Screenshot 3](https://github.com/IlsaFatima1/AIDD-30-days-challenge-task-8/blob/main/Screenshot_4.jpeg)
 
